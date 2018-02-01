@@ -1,0 +1,69 @@
+10/12/1997
+
+************************
+Although Creative has a free 2mbgmgs.sf2 on the Internet, this soundfont 
+is NOT from, or related to Creative/Emu. The offical Creative's 8Mb 
+soundfont are called 8mbgm.sf2 and 8mbgmsfx.sf2.
+************************
+
+The 8mbgmgs.sf2 is free for anyone who has a SB32/AWE32/AWE64 soundcard
+with at least 8Mb RAM on the soundcard.
+
+After posting the 5mbgmgs.sf2 to the Internet around the same time last year, 
+I have received a lot of valuable comments and encouragements from all sort 
+of AWE-jammers all over the world. Thank you to everyone who has tried my 
+5mbgmgs.sf2, especially for those who have recommended my soundfont to the 
+others in the Usenet.
+
+Same as the 5mb one, all the instruments in the 8mbgmgs.sf2 are collected
+from the Internet, with some fine adjustments have been made on them. There
+are also many others good quality 8mb GM/GS soundfont on the Internet, like 
+the Ultra 8Mb, 8Mb Chaos or the RealGS 1.0/2.0 . In my opinion, each General 
+Midi soundfonts has their own strength, eg. some soundfonts have excellent 
+drum/bass sound, but have cheesy ensemble or melodic sound. The offical 8Mb
+soundfonts from the Creative/Emu produces high quality 16bit sound, but many 
+instruements sound extraordinary weak and lacks of FX (or "mass"). Because
+of these, I have tried to maintain good quality in both melodic instrumnets
+and percussions in my 8Mb soundfont.
+
+The 8mbgmgs.sf2 is ideal for playing back General Midi/General Standard
+files. If you would like to have high quality instrumental sounds when 
+composing your song, you could create and customerize your own soundfont. 
+(This is one of the selling points of the AWE series from Creative). 8Mb 
+capacity is not enough to squeeze in 128 high quality instrumental sounds.
+
+The 8mbgmgs.sf2 is GM/GS compatible, with a CM64L Drum Set.
+
+The size is 8,245,310 bytes.
+
+Please send any comment to me after trying this GM soundfont, I will
+reply every emails that I've received.
+
+Happy AWEing all the time!!!
+
+Alan WL Chan
+wing.chan@stonebow.otago.ac.nz
+
+======================================================================
+12/12/1996
+
+The 5mbgmgs.sf2 is free to use to anyone. All the instruments sample
+are collected from the internet. Note that only a few instrumenets are
+using the default ROM sample.
+
+I have seen some of the 2Mb/6Mb/8Mb soundfonts from the internet, but
+they all sound unevenly. Some of the instruments in certain bank are
+ridiculous, but some of the instruments in the same bank sounds very good.
+Because of this I reorganised ALL the instrumnets from those different
+banks. Hope everyone will like this soundfont bank!
+
+The SF2 bank is GM/GS compatible. The size is 4912136 bytes.
+
+If someone have any comment, or recommendation, don't hesitate to drop me
+a line!
+
+Keep on AWEing all the time!!!
+
+
+Alan WL Chan
+wing.chan@stonebow.otago.ac.nz
