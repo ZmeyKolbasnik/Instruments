@@ -1,0 +1,4 @@
+This General Midi format soundbank is  optimized to take full
+8M of RAM onboard of AWE32/SB32.  This is built with large
+collection of soundfont found in the internet.  
+Any comment: dilwyn@singnet.com.sg

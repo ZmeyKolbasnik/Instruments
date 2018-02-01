@@ -1,0 +1,4 @@
+Assembled from Advanced Gravis's patches
+Fido 2:5020/724 (Adventure BBS)
+E-mail arkady@aha.ru (Arkady E. Ostrovski)
+

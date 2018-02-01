@@ -1,0 +1,40 @@
+Here is a change for the NEWGM4.SBK file.  This change should be made
+to the Grand Piano patch using Vienna or other SBK editor.  In addition, I
+suggest the use of the FX settings in either AWE FX Workshop (awefxws)
+or the newest 2.49 version of AWE Virtual BankManager (awevbank).  These
+algorithms are better than the default FX algorithms.
+Also note that NEWGM is not really for making your own music but listening
+to MIDI.  I don't think the quality overall is really good enough for
+composition though some sounds are pretty good.
+
+
+Sample pfd1
+Hold: 13
+Decay: 126
+Sustain: 46
+Release: 70
+
+Sample pfc2
+Hold: 7
+Decay: 126
+Sustain: 25
+Release: 70
+
+Sample pfc3
+Hold: 6
+Decay: 126
+Sustain: 0
+Release: 70
+
+Sample pfc4
+Hold: 13
+Decay: 126
+Sustain: 0
+Release: 70
+
+Sample pfc5
+Hold: 3
+Decay: 126
+Sustain: 0
+Release: 70
+

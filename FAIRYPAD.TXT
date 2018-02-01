@@ -1,0 +1,20 @@
+FAIRYPAD.ZIP
+------------
+
+Fairypad.sf2
+Fairypad.txt
+
+"Fairypad" is great and useful pad sound for all music styles.
+It´s 44.1khz/stereo, so it will take lots of memory (410kb)
+U must like this!!!
+
+do NOT use this soundfont for commercial use!
+
+
+                        ------------------------------------
+			COPYRIGHT MATIAS ROCKAS 1996 FINLAND
+			------------------------------------
+
+
+PS. Let´s make things better...and more STEREO soundfonts for AWE32/64
+	

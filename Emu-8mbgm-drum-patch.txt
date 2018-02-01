@@ -1,0 +1,4 @@
+* Emu's 8MB GM bank - patch drum section
+1. Unzip this file 
+2. Run patch.exe in the directory in which contains 8mbgm.sf2(7581640 bytes, 6-25-96 1:16a)
+3. Above procedures will make a file named 8mpatch.sf2(7696828 bytes) - patched file.

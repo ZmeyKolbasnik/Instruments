@@ -1,0 +1,23 @@
+
+12/12/1996
+
+The 5mbgmgs.sf2 is free to use to anyone. All the instruments sample
+are collected from the internet. Note that only a few instrumenets are
+using the default ROM sample.
+
+I have seen some of the 2Mb/6Mb/8Mb soundfonts from the internet, but
+they all sound unevenly. Some of the instruments in certain bank are
+ridiculous, but some of the instruments in the same bank sounds very good.
+Because of this I reorganised ALL the instrumnets from those different
+banks. Hope everyone will like this soundfont bank!
+
+The SF2 bank is GM/GS compatible. The size is 4912136 bytes.
+
+If someone have any comment, or recommendation, don't hesitate to drop me
+a line!
+
+Keep on AWEing all the time!!!
+
+
+Alan WL Chan
+wing.chan@stonebow.otago.ac.nz

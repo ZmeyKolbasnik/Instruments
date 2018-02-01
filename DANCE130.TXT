@@ -1,0 +1,10 @@
+DANCE130.ZIP (created by Matias Rockas)
+------------
+file : dance130.sf2
+
+This sounfont contains a dance loop (130.43bpm) I made
+samples are stereo/44.1khz.
+
+This is only one beat example of my production, so feel free
+to use it in your composition!
+

@@ -1,0 +1,30 @@
+Flying over distant eyes
+------------------------
+by Aleix Tc
+Barcelona / 3rd Planet
+
+My first release: a slow-dance style song without melody and
+good title for Awe32 users... another garbage awe-song to listen... :(
+
+Requirements:
+- Awe32/64 with 2 Mb of DRAM.
+- A standard midi player like Media Player.
+Remarks:
+- The sound files were compressed with RAR 2 using multimedia compression
+- The soundbank format is SF2 (=street fighter 2 format).
+- Upload the soundfont to user bank 1 with the AweCp.
+- Set the fxs to Hall 1 and Chorus 4.
+- The optimal trebel level is +6 dB.
+- The optimal bass level is +0 dB.
+- Don't use the 3d stereo enhancement.
+
+
+Statistics at this moment:
+- Total awe songs listened: around 280
+- Total good songs found: around 50 (the rest are bad/garbage/pure garbage).
+
+Be aware for next releases from Barcelona.
+
+mail: aattcc@hotmail.com
+----------------------------------------------------------------------------
+29/11/1996 © Aleix Tc

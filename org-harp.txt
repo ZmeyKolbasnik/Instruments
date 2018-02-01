@@ -1,0 +1,13 @@
+AWE soundfont bank  org_harp.sf2  with artistic demand.
+Contains synthetic organ sounds and "sampled" harpsichords 
+(preferably, but not exclusively).
+Author:  Ulrich Bruchholz   bruchholz@markt-2000.de
+Linux software and technical infos at 
+http://www.markt-2000.de/patent/index.html .
+The (identical) supplement packages contain 9 samples (.MID) with 
+music by J. S. Bach, as demo for different voices. The harpsichords 
+are mainly good for real time play on a masterkeyboard.
+As reverb & chorus types select reverb 3 "hall1" and chorus 4 "feedback".
+The sound quality is under Linux or FreeBSD much better as under Windows.
+I have also the DOS version  org_harp.sbk , and DOS software,
+but not published.

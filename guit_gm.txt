@@ -1,0 +1,14 @@
+This GM compatible SBK replaces all guitar patches (except for Jazz guitar),
+basses + synth basses and many percussion sounds.  Everyone is more than 
+welcome to modify it (as long as it sounds better :-). Samples from: K2000, 
+TX16W, ROLAND, GUS, EMU demo song and other.
+Feel free to let me know what you think of it. Keep in mind though that I'm
+not a musician and don't have a keyboard and have no idea what a real GM is
+supposed to sound like; I was choosing and tuning samples based on how Rom
+samples sounded. Nevertheless, it sounds great, especially steel string guitar, ]
+clean guitar and of course, drums (>1M)!
+ 
+Andrei 
+andrei@cs.wisc.edu
+
+Just one more try in our common effort to make AWE sound better.

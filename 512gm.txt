@@ -1,0 +1,43 @@
+         SoundFont 2.0 bank for 512K SoundBlaster AWE32/64 Users
+                           -= Revision B =-
+
+
+Why I made this bank?
+~~~~~~~~~~~~~~~~~~~~~
+Since I found out that many instrument in the original 1MB ROM sounds 
+weird, I just tried to make my own bank. It uses 511K out of the maximum 
+512K RAM onboard. Hope you'll enjoy it. 
+
+Disclaimer!
+~~~~~~~~~~~
+You may freely distribute it! Provided that you do not change it's 
+content. It is distributed with no warranty of any kind. I carry no 
+responsibility of any consequence of using it.
+
+What is changed?
+~~~~~~~~~~~~~~~~
+The following instruments have been changed (compared to the original General Midi bank provided by Creative Labs).
+
+000  Piano 1
+006  Harpsichord
+010  Music Box
+013  Xylophone
+019  Church Organ
+032  Acoustic Bass
+040  Violin
+041  Viola
+049  Slow Strings
+050  Synth Strings 1
+056  Trumpet
+061  Brass
+072  Piccolo
+122  Seashore
+
+
+by Anson Lam (C)1997
+Email: ansoncl.lam@utoronto.ca
+Homepage: http://www.ecf.toronto.edu/~lamans
+
+
+Sound Blaster is a registered trademark of Creative Technology Ltd.
+Sound Blaster AWE32 and Sound Blaster AWE65 are trademarks of Creative Technology Ltd.

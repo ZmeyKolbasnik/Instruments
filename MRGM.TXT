@@ -1,0 +1,13 @@
+			M.R GM REPLACEMENT FOR 512KB AWE OWNERS.
+Version 1.0
+
+This file replaces the SYNTHGM.SBK which comes whit your AWE32 card.
+You must download AWE32 new SF2 compatible drivers to make use of this
+soundfont.
+Look in ftp.creaf.com site for drivers.
+I have replaced some drums and some guitars.
+Play the midi files to hear the difference.
+If you have any suggestions mail me at ingets.geocities.com.
+My mrgm.sf2 is not copyrighted so you can do whatever you like whit it...
+The midi files is copyrighted to the respective composers.
+

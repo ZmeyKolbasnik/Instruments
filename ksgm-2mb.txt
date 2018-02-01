@@ -1,0 +1,11 @@
+English:
+This is SBK for AWE32/SB32 with 2 Mb RAM. Assembled from different
+samples/patches.
+
+Russian:
+
+Это SBK для AWE32 c 2Mb RAM, в котором земенены некоторые инструменты
+из ROM. Для использования переименуйте его в synthgm.sbk или synthusr.sbk
+и подгрузите через AWE Control Panel.
+
+Serge_Kuzenkov@p21.f36.n5030.z2.fidonet.org

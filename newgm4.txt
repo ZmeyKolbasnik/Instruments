@@ -1,0 +1,2 @@
+Version 4 of the NEWGM SBK for AWE32/SB32 which is about 7MB right now.
+Pretty well balanced (Sound Canvas-wise)  and replaces a number of instruments.

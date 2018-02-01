@@ -1,0 +1,13 @@
+MT-18.zip
+Vintage Drum Samples from the MT-18 portable synthesizer
+Includes:
+Bass Drum
+Snare
+Open Hi-Hat
+Closed Hi-hat
+hi and low Toms
+  also
+demo.wrk
+demo.mid
+Any comments please send them to:
+stevesch@dot-net.net

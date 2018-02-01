@@ -1,0 +1,11 @@
+ANALOG.SBK: Analog Synth sounds  29/05/94
+
+This sound bank contains a few classic analog synth
+samples for Creative's AWE32 sound card. The bank was
+created with the SBKMAKE utility and can be loaded via
+the AWEControl program. There are only six samples, but 
+the bank should fit into an unexpanded AWE32 (512K sample
+memory).
+
+Phil Camp, 100012,25.
+

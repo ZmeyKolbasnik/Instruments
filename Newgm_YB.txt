@@ -1,0 +1,37 @@
+*************************************************************************
+
+File name : NEWGM_YB.SF2
+Text file : NEWGM_YB.TXT
+Author    : Yanick Bélanger (belangey@quebectel.com)
+
+General Description:
+New General Midi replacement bank for the Sound Blaster AWE32 and 32.
+Made with various files on Internet and other. Very good sounds.
+
+Instruments description:
+- All preset's name with " - " before and after ( - piano3 - ...)
+  are the original sound of the AWE32, from the ROM.
+- Preset's name with " => " before are my new instrument. (Internet's
+  instruments, and my recording(clean guitar).) Also few instruments
+  are from the Roland MT32 module.
+- Others are from the FREE 2mgmgs.sf2 bank from Emu.
+
+Copyright:
+All instrument's name without any " => " before are copyright 
+Emu technology.
+Others have'nt any copyright (just send me an E-mail if you use it)
+
+Included files:
+- A few midi files that sound good with this bank...
+
+!!! CAUTION !!!
+
+You accept to use this file (NEWGM_YB.SF2) with these condition:
+
+- If I'm astounded by this file, I promise to mail my comments to
+  Yanick Belanger (belangey@quebectel.com).      :->
+
+- If I think that this bank is just shit, I promise to mail my comments
+  to Yanick Belanger (belangey@quebectel.com).   :-(
+
+*************************************************************************

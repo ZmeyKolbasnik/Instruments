@@ -1,0 +1,27 @@
+- Fender strat. 68 (22050Hz 16bit)
+
+This is the best Distorted guitar i
+have ever heard. Great for those of
+you who have little ram on your AWE32.
+All others can use the non-downsampled
+version instead.
+
+I'd recommend using this instead of the
+distorted guitar which EMU sends along
+in their 8MB GM soundfont.
+
+(I'm working on replacements for those
+instruments which sound like crap in
+the EMU GM soundfont at the moment.
+I'll upload it at ftp.lysator.liu.se as
+soon as it's been completed.)
+
+The original soundfont came from...
+
+http://...
+
+(I made a downsampled version of
+it (fender2.sf2) and corrected the
+loops in both of them.)
+
+// Sleepy E (emil.djurberg@swipnet.se)

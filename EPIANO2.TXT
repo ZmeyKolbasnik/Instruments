@@ -1,0 +1,13 @@
+EPIANO2.ZIP (Created By Matias Rockas)
+-----------
+files :	epiano2.txt	
+	epiano2.sf2
+
+ATTENTION!!! If you have been waiting for good electric pianos, this soundfont is
+	     for you!
+
+	     epiano2 -samples are STEREO sounds! (taken from Roland U-20)
+
+
+Feel free to use this soundfont!!!
+	Ps. Download also another electric piano: epiano1.zip!

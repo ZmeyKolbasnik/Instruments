@@ -1,0 +1,11 @@
+
+  !!!! Welcome Fantagm's World !!!!
+
+File Name    : fantagm2.sbk
+File Size    : 8,445,336 bytes
+Format       : SBK 
+MIDI Mode    : General MIDI
+Autor        : SeungGaul Jang (South Koera)
+Email        : sgjang@ctk.co.kr
+
+8MB support Great GM SoundFont !!

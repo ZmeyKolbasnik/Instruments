@@ -1,0 +1,22 @@
+Vocoder.sbk is a simple demonstration of my upcoming vocoding program for the entire 
+SB16/AWE32/SB32 family which will come out in a non-realtime version at first and then a
+pitch tracking version and then a full, full duplex version.
+The actual sample in Vocoder.sbk is my own rendition of the first vocode recording ever, done
+through a true electronic (dual banpass chain) vocoder.
+The actual text is "This is a 10 band vocoder, designed by R.A. Moog in the summer of 1969", and
+was said by the famous Wendy Carlos.
+The actual vocode in Vocode.sbk is only my own version of the text spoken in 196?, and
+contains not one single sample from the origional recording.
+The text (my voice) was sampled at 22K and normalized.
+The carrier is a simple sustained sampling of the echo drop patch from the Roland SCD-15, also
+sampled at 22K and normalized.
+The resulting file was a mono 22K file which I normalized, then converted to .SBK format
+with a dual layer with the second layer slightly pitch bended to produce a slight flange effect.
+Echo and Reverb are at full and sound best with Plate or Hall2 and Chorus3.
+Listen very carefully to the vocoding since it is quite pure and tricks the mind into
+thinking it's some sort of voice trick until I change the pitch on the carrier and suddenly
+the pitch of the voice goes with the carrier like magic, proving that it's a real vocoder,
+not just a simulated effect, like the famous echo trick that has become popular lately.
+Take Care and look for the software announce in the soundcard groups.
+Daron Myrick
+daronm@onramp.net

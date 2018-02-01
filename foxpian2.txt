@@ -1,0 +1,15 @@
+
+	FOXPIAN2.ZIP file contains file: FOXPIAN2.SBK
+	It is converted from Kurzweil-sound (KRZ) with CONVERT utility
+	from Jesus Villena.
+
+	Some modifications and Pitch shifting etc ...
+
+	Patch Grand Piano, Bright Piano, Honky-tonk Piano and Chorus-piano.
+
+	Same places as GM - instruments with same name.
+
+	Enjoy ...
+
+	Janne Kettunen e-mail hyks_jk@kruuna.helsinki.fi
+

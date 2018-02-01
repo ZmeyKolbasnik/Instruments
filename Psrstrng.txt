@@ -1,0 +1,23 @@
+A string section SoundFont. The loop points aren't perfect -- you can hear
+clicks one in a while. (If you can find better loop points, please e-mail
+me.) Still, probably the most *consistent* string patches around. Except for
+a small section of notes from E4 to B4, the timbre of the instrument doesn't
+vary much.
+
+These samples can also be used as the foundation for the Tremolo Strings
+and Slow Strings. For Tremolo Strings, simply set the Vibrato LFO to 25
+cents -- you can play around with the frequency to get faster or slower
+vibrato. For slow strings, just increase the attack on the Volume Envelope
+to about 1 or so.
+
+Note, you may or may not be wondering why I didn't simply create the
+Tremolo and Slow Strings so you can drop them into your bank from Vienna?
+Well, you may have noticed that for some reason, dragging 4MB of
+instruments usually creates a 6MB bank. Quite simply, when Vienna encounters
+a sample of the same name, it will rename the new sample and copy it in
+regardless of whether that sample is the same or not. You can see the amount
+of chaos that would be created if you had multiple instruments based on the
+same samples.
+
+Comments or questions, e-mail me at: william_yu@bigfoot.com
+

@@ -1,0 +1,4 @@
+This is a collection of all of the Alesis D4 Drum Module sampled
+at 16bit/44.1KHz and in the AWE32 SBK format.  Please upload YOUR
+samples to ftp.earthlink.net/pub/users/jay.  Thank You.
+

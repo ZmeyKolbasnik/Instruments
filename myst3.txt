@@ -1,0 +1,6 @@
+Myst3.sbk contains one instrument. It is a pad-sound with
+a wavesequenced background. The original sound I tried
+to rebuild is "Genesis", a preset in the Ensoniq TS12.
+
+Hartwig Schieck, Dynamic Soundworx (DSX)
+hartwig.schieck@informatik.uni-oldenburg.de

@@ -1,0 +1,1 @@
+Syn_drum.sbk  Analog-style drumsounds ( like the ones from TR-909 ) made with sinus and whitenoise waveforms (Samples from Ian Wilson's Vintage Dream SBK).Creator: Manuel Montilla, SwitzerlandDate    : 7.5.96

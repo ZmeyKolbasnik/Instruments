@@ -1,0 +1,136 @@
+AWE 2 Mb GM bank - first release. 
+Ivan Blumenschein - Rio de Janeiro - BRASIL 
+ivsalati@omega.lncc.br
+
+      Altough the AWE32 has a good hardware, most samples are not so fine.
+This bank is an effort to make this great board sound better, using Gravis
+Utrasound Max , Roland, Kurzweil, Ensoniq and even other samples I collected 
+in many sites and BBSs. I made this bank for AWE users with 2Mb onboard, so 
+you must have at least 2 Mb to load it (it's worthy - the sound quality in-
+crease is huge) and the bank is full 2Mb large.
+	I spent about 2 months downloading samples, selecting the best, resam-
+pling what was possible, tuning instruments, matching loop points and envelopes
+and choosing what would be and what would not in the bank.
+	This is a GM bank (with brush set -40- just to make sense), and I tried 
+to improve the weakest spots of AWE. It contains 113 samples, and the
+changed instruments are:
+
+Acoustic Grand Piano
+Acoustic Bright Piano
+Honky Tonk
+E. Piano 1
+E. Piano 2
+Rock Organ
+Church Organ
+Reed Organ
+Steel str. Guitar
+Jazz guitar
+Clean guitar
+Muted guitar
+Overdrive guitar
+Distortion guitar
+Guitar harmonics
+Fingered Bass
+Picked bass
+Slap bass 1
+Slap bass 2
+Synth bass 1
+Synth bass 2
+Contrabass
+Pizzicato strings
+Voice ohhs
+Syn vox
+Orchestra hit
+Trumpet
+Trombone
+Muted trumpet
+French horn
+Brass
+Tenor sax
+English horn
+Clarinet
+Piccolo
+Flute
+Pan flute
+Bottle blow
+Fantasia
+Reverse cymbal
+Guitar fret noise
+Seashore
+(drums)
+High Q
+Slap
+Scratch push 
+Scratch pull
+Sticks
+Side stick
+Kick drum 1
+Kick drum 2
+Snare drum 1
+Snare drum 2
+Handclaps
+Closed hihat
+Pedal hihat
+Open hihat
+Crash cymbal 1
+Crash cymbal 2
+Chinese cymbal
+Ride bell
+Tambourine
+Splash cymbal
+Cowbell
+Cabasa
+Short guiro
+Long guiro
+Muted cuica
+Open cuica
+Shaker
+Jingle bell
+Belltree
+Brush tap
+Brush slap 
+Brush swirl	
+
+
+	These instruments were tottaly changed, but I also changed many others
+using the original samples, to make the dynamics get closer to Roland's
+  (for example, the timpani's volume was too low, the tremolo strings had too
+much tremolo etc.).
+
+	There are two ways to use this bank as your main bank (I'm sure you won't
+want to use that CC0 1 hassle. If you have the 2mb, use it as default bank):
+
+	1. Copy the USER.SBK bank to your SFBANK subdirectory (maybe 
+         c:\sb16\sfbank). Edit your \WINDOWS\SBWIN.INI file. Below the 
+         [AWE32], in the line
+         user ....
+         complete it:
+	   user=c:\sb16\sfbank\user.sbk
+         Run windows. In AWE Control Panel, choose USER CUSTOM BANK
+         All your windows applications will now use this bank as bank 0 (no 
+	   control changes needed).
+
+	2. Just copy the USER.SBK to your SFBANK directory with the name
+	   synthgm.sbk. It overwrites your old gm bank, so backup it!
+         (I suggest you to use the first way)
+
+
+	To improve sound quality, add in the same place (below [AWE32]) these two
+lines:
+
+	   Bass=5
+	   Treble=5
+	
+	This minimizes a strange treble gain the AWE automatically produces (it's
+hardware stuff), making samples sound sharper than they should. Adding this, 
+they'll sound more like they should (this applies to the ROM samples,too).
+	There are many things in this bank that can be improved. I'm still trying
+to make it better, but as I didn't find any bank so complete as this one,
+I decided to upload it without finishing the make-up.
+	You are totally free to make any changes, and if you do and it sounds
+better, PLEASE LET ME KNOW, send me an e-mail.
+	If you tried this bank, please don't forget to send me your comment/
+question/suggestion/flame.
+
+Ivan Blumenschein
+ivsalati@omega.lncc.br

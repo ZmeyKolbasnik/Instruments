@@ -1,0 +1,19 @@
+This SBK has been lovingly handcrafted from the ROM samples that came with the AWE.  (It takes up no RAM space.)  If you thought that some of the AWE's orchestral voices just weren't MEAN enough, here's the solution to your problems.  (Most of these use layered notes -- four at a time in 03 -- so don't go crazy with 'em.) 
+
+00 - Mega Strings - _powerful_ blast from the string section...use sparingly
+01 - Divine Hammer - funky orchestra hit with an echoing finish 
+02 - Carillon - deep, cathedral-style bell (great improvement over the original Tubular Bell)
+03 - Brass Flourish - Uses all the brass instruments together to replace the flat-sounding 
+		     Brass Section voice
+04 - Echo Cymbal - triumphant cymbal crash for a big finish
+05 - Holy Choir - choir and organ for a religious atmosphere
+06 - Ghostly Organ - Eerie, cheesy-horror-flick organ
+07 - Repeating Marimba - marimba with an echo (not too exciting)
+
+drop me a line at
+
+gieg@muvms6.mu.wvnet.edu
+
+We'll have some coffee, we'll talk.  I'll give you a topic:  The Holy Roman Empire was neither holy nor Roman nor an empire.  Discuss.
+
+created by Nick Fox-Gieg

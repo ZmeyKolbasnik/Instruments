@@ -1,0 +1,15 @@
+
+	FOXFLUTE.ZIP file contains file: FOXFLUTE.SBK
+	It is converted from Kurzweil-sound (KRZ) with CONVERT utility 
+	(thanks to Jesus Villena).
+
+	Some modifications and Pitch shifting etc ...
+
+	Flute - at instrument-patch No: 73
+
+	Same places as GM - instruments with same name.
+
+	Enjoy ...
+
+	Janne Kettunen e-mail hyks_jk@kruuna.helsinki.fi
+

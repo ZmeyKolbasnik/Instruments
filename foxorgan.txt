@@ -1,0 +1,11 @@
+
+	FOXORGAN.ZIP file contains file: FOXORGAN.SBK
+	It is made using some sine-wave and AWE32's internal ROM-
+	sounds so use of memory is quite minimal.
+	
+	Instrument places 0,1,2,3,4,5
+
+	Enjoy ...
+
+	Janne Kettunen e-mail hyks_jk@kruuna.helsinki.fi
+

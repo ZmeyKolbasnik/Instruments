@@ -1,0 +1,67 @@
+
+                        REALSOUND 8MB GS versión 1.0
+                      Ultima actualización: 20/MAY/97
+
+
+  Este es un banco de sonidos en        This is a soundfont2 bank for the
+  formato soundfont2 para Awe32. Está   Awe32. It is assembled with the
+  armado con los mejores parches que    very best patches I found across
+  encontré en internet. Me llevó mas    the internet. It took me more
+  de tres meses llegar a la versión     than three months to achieve this
+  que tengo. Pruébenla, no se van a     version. Try it! You won't be
+  arrepentir. Si no les gusta, es por   dissapointed. If you don't like
+  que tienen mal oído :) o por que      it, then you have bad ear! :) or
+  están acostumbrados a trabajar con    you have an sw60xg :(
+  monstruos como la sw60xg :(
+                                        I tried to make the best bank
+  Traté de hacer el mejor banco con     with the best patches that could
+  los mejores sonidos que pudieran      fit in the 8Mb. It only uses 3
+  caber en 8Mb. Sólo usa 3 parches de   awe ROM patches for the trombone,
+  la ROM de la awe; son los del         which I couldn't find another as
+  trombón, que la verdad es que no      nice and small. Besides, all
+  encontré otro chiquito y mejor.       sounds are better. If you have an
+  Después, todos los sonidos            AWE32 with 8Mb. and the best
+  cambiaron. Si tienen una AWE32 con    thing you found for it was
+  8Mb. y lo único mejor que pudieron    2MBGMGM or CHAOS8M, then try
+  conseguir es el 2MBGMGS o el          this.
+  CHAOS8M, pruébenlo.
+                                        Some sound sources I used to make
+  Algunas de las fuentes de sonidos     this bank was the e-mu's 2mbgmgs,
+  que usé fueron los bancos 2mbgmgs de  chaos8m, some of the propats for
+  E-mu, el chaos8m, varios de los       gravis ultrasound (pretty good),
+  propats para gravis ultrasound (muy   some Kurzweil and Roland Sound
+  buenos), algunos parches de           Canvas, a new drum set for
+  Kurzweil, Roland Sound Canvas, un     ultrasound and some sf2 and sbk I
+  set nuevo de baterías para            found on the way.
+  ultrasound, y varios sf2 y sbk
+  sueltos.                              I did my best to unify the bank
+                                        as best as possible, that is, to
+  Dentro de todo, traté de              arrange things so it sounds not
+  homogeneizar el banco lo más          only as a bunch of lonely
+  posible, es decir, acomodarlo de      instruments, but as a true
+  forma que no suene sólo como un       ensemble and the music gains
+  montón de instrumentos sueltos, sino  body. I think that it worked for
+  que suenen como un conjunto y que la  me, but still has some
+  música tenga cuerpo. Creo que lo      instruments that need some
+  logré bastante bien, aunque todavía   polish.
+  tengo algunos instrumentos que
+  necesitan un poco de pulido.          I plan to improve the bank (bah,
+                                        I am doing it already all the
+  Tengo planes de mejorar el banco      time ;-) Among other things, I
+  (bah, lo estoy haciendo               wanna optimize the size so I can
+  constantemente ;-) Entre otras        fit more and better instruments;
+  mejoras quiero optimizar el tamaño    and get some good alto sax (if
+  para que quepan otros instrumentos,   you know one, send it to me :) I
+  conseguir un buen saxo alto (si       will credit you)
+  alguien sabe de uno, mándemelo :)
+  recibirá su merecido crédito).        Comments, questions, suggestions
+                                        are welcome. I promise to reply
+  Cualquier comentario, pregunta,       :)
+  sugerencia será bienvenida. Prometo
+  responder :)
+
+----------------------------------------
+  Daniel R. Careri (a.k.a Neumann)
+  neumann@mindless.com
+  Download from http://www.cyberush.com.ar/daniel
+

@@ -1,0 +1,23 @@
+AWE32 / SB32 SoundFont 1.0
+----------------------------------------------------------
+Roland DR-550 Drum Machine Kit (w/very light reverb) 1.8MB
+----------------------------------------------------------
+2MB AWE RAM Required! (I recommend 8MB if you'd like to load any other SBKs)
+
+Mapped for General Midi Channel 10
+
+All 48 DR-550 samples are included in this SBK. It works as a GM
+drum kit quite well, though there were some modifications made
+as not every Roland sound can be matched to a GM key. Noticeably 
+missing are some Latin percussion, triangles, etc. (such sounds
+don't exist on the 550) Also there are a few extras such as Hi-Hats,
+Toms, snare and a cowbell. Look around and you'll see what I mean.
+Feel free to edit or redistribute. I did not sample the instruments
+myself. I found the whole set of samples somewhere on the Internet 
+(can't recall where, though) and imported them as WAV files into
+Vienna.   
+
+Todd J. Eaton
+
+E-mail: teaton@infinet.com
+Awe32 Webpage: http://www.infinet.com/~teaton/awe32/awe32.html

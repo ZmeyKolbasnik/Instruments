@@ -1,0 +1,15 @@
+Velpiano.sbk
+
+Thanks to Esbeekay 1.21 for the velocity split feature ! This makes now
+things sound better. Let's hear to this piano where Fc is controlled
+by your hands (i.e the harder you strike the brigther it sounds).
+
+If you're not a good pianist, I have included a midi song to demonstrate
+this new feeling. To play it, put the velpiano in bank 1 with the AWE
+control panel.
+
+Enjoy !
+
+Stephane Bernard
+
+E-mail: Stephane_Bernard @ hp8101.desk.hp.com
