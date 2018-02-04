@@ -1,0 +1,7 @@
+Samples taken from my  ENSONIC ESQ 1.
+The patches are close to the originals.
+Watch out for the "VEL" patch ! It eats a lot  of notes.
+If it is a problem ,decrease the  "release".
+ 
+Made by Anders Poulsen
+ap@mips.fys.dtu.dk
