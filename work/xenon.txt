@@ -1,9 +1,0 @@
- 
-All 4 voices are looped for sustain and release parameters:
-	voice 1 : (diggy)  medium attack and a little release
-        voice 2 : (choral) steep attack and slow release
-        voice 3 : (choral w/ filtering) steep attach and slow rel.
-        voice 4 : (housish hit with sustain) no attack and tiny rel.
-more pads coming up soon....
-
--jmg
