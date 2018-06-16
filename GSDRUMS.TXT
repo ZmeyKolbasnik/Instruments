@@ -1,0 +1,82 @@
+This -txt- describes the changes made to the standard GS Drum Preset Maps
+in the soundbank file "GSDRUMS.SF2" 
+
+The intent of this Soundbank to replace some common sounds from the original
+AWE32-GS sounds, with better sounding samples.
+ 
+To hear the changes you must load this sbk 
+and play it under MIDI channel 10!
+
+Since this file is a OVER 1meg it is intended for
+AWE32 users with extra ram! (>512K) 
+ 
+There are 40 changes to the original:
+
+027)  High Q          ---> HIGH Q
+028)  Slap            ---> SLAP 
+029)  Scratch Push    ---> scratch1 
+030)  Scratch Pull    ---> scratch
+031)  Sticks          ---> STICKS
+032)  Square Click  
+033)  Metronome Click
+034)  Metronome Bell
+035)  Kick Drum 2     ---> Honst Kick
+036)  Kick Drum 1     ---> Ambient Kick
+037)  Side Stick      ---> Side Stick (It's a different sound of course!)
+038)  Snare Drum 1    ---> Hi True Snare
+039)  Hand Clap       ---> Hi Picolo
+040)  Snare Drum 2    ---> Nasty Snare
+041)  Low Tom 2       ---> Lo Cannon
+042)  Closed Hi-hat   ---> Wet Randm(Hi-hat)
+043)  Low Tom 1       ---> Low Tom
+044)  Pedal Hi-hat    ---> Closed Hat
+045)  Mid Tom 2       ---> Mid Cannon
+046)  Open Hi-hat     ---> Open Hat
+047)  Mid Tom 1       ---> Mid Tom
+048)  High Tom 2      ---> Hi Cannon
+049)  Crash Cymbal 1  ---> Lo Crash
+050)  High Tom 1      ---> Hi Tom
+051)  Ride Cymbal 1   ---> Live Ride
+052)  Chinese Cymbal  ---> CINESE CYMBAL  
+053)  Ride Bell       ---> RIDE BELL
+054)  Tambourine    
+055)  Splash Cymbal   ---> SPLASH CYMBAL
+056)  Cowbell         ---> COWBELL
+057)  Crash Cymbal 2  ---> Md Crash 
+058)  Vibra - slap
+059)  Ride Cymbal 2   ---> Soft Ride 
+060)  High Bongo
+061)  Low Bongo
+062)  Mute High Conga
+063)  Open High Conga
+064)  Low Conga       ---> Lo Conga 
+065)  High Timbale    ---> Hi Timba
+066)  Low Timbale     ---> Lo Timba
+067)  High Agogo
+068)  Low Agogo
+069)  Cabasa          ---> Cabasa (See #37)
+070)  Maracas
+071)  Short Hi Whistle
+072)  Long Low Whistle
+073)  Short Guiro     ---> SHORT GUIRO
+074)  Long Guiro      ---> LONGGUIRO
+075)  Claves          ---> Lo Wet Clave
+076)  High Wood Block  
+077)  Low Wood Block
+078)  Muted Cuica     ---> MUTED CUICA
+079)  Open Cuica      ---> OPEN CUICA
+080)  Mute Triangle
+081)  Open Triangle
+082)  Shaker          ---> SHAKER
+083)  Jingle Bell     ---> JINGLES
+084)  Belltree        ---> BELLTREE
+085)  Castanets
+086)  Mute Surdo
+087)  Open Surdo
+
+Enjoy...
+and please let me know if you find other sounds or changes!
+
+Michael Moreno
+mikem@sprynet.com
+http://home.sprynet.com/sprynet/mikem/

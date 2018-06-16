@@ -1,0 +1,11 @@
+	SAX.SBK
+	-------
+
+Sax.sbk is a small soundbank for Soundblaster AWE32 with sampled
+saxophones. (the sax in ROM isn't very good...)
+
+By Lars Ahlzén
+
+
+ contact me at  lars.ahlzen@swipnet.se
+      

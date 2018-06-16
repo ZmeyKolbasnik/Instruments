@@ -1,0 +1,141 @@
+	________________________
+
+	44.1 kHz 16 bits samples
+	________________________
+
+
+!! You need at least 4MB on your AWE !!
+
+
+R8Snds1.sf2 : Preset sounds of the Roland R8 Drum machine (part 1)
+
+R8Snds1.sf2 : Preset sounds of the Roland R8 Drum machine (part 2)
+            + sounds from an additionnal card for the Roland R8 Drum machine
+
+
+=============================
+suggestions and comments to:
+l.coydon@ac-nancy-metz.fr
+=============================
+
+R8Snds1
+-------
+036	036 DRY_K1	dry kick 1
+037	DRY_K2		dry kick 2
+038	WOOD_K1		wood kick1
+039	DBLH_K1		double head kick 1
+040	DBLH_K2		double head kick 2
+041	SOLID_K		solid kick
+042	ROOM_K1		room ambient kick 1
+043	ROOM_K2		room ambient kick 2
+044	MONDO_K		mondo kick
+045	WOOD_S1		wood snare 1
+046	OPEN_S1		open snare 1
+047	TIGHT_S		tight snare
+048	NICE_S1		nice snare 1
+049	FAT_S1		fat snare 1
+050	IMPCT_S		impact snare
+051	SNAP_S1		snap snare 1
+052	OUCH_S		ouch ! snare
+053	RVB_S1		reverb snare
+054	PICL_S1		piccolo snare
+055	RIMSHT1		rimshot snare 1
+056	RIMSHT2		rimshot snare 2
+057	SIDSTK1		side stick 1
+058	SIDSTK2		side stick 2
+059	DRY_T1		dry tom 1
+060	DRY_T2		dry tom 2
+061	DRY_T3		dry tom 3
+062	DRY_T4		dry tom 4
+063	ROOM_T1		room ambient tom 1
+064	ROOM_T2		room ambient tom 2
+065	ROOM_T3		room ambient tom 3
+066	ROOM_T4		room ambient tom 4
+067	POWR_T1		power tom 1
+068	POWR_T2		power tom 2
+069	POWR_T3		power tom 3
+070	POWR_T4		power tom 4
+071	DOOM_T1		doom tom 1
+072	CLSD_H1		closed hihat 1
+073	OPEN_H1		open hihat 1
+074	PDAL_H1		pedal closed hihat
+075	CRSH_C1		crash cymbal 1
+076	MLLT_C1		mallet crash cymbal
+077	RIDE_C1		ride cymbal 1
+078	RDBL_C1		ride-bell cymbal 1
+079	BELL_C1		ride cymbal bell
+080	808CLAP		808 hand clap
+081	OPEN_D1		open drum 1
+082	TAIKO1		taiko 1
+083	CLAVE1		clave 1
+084	CABASA1		cabasa 1
+085	COWBELL1	cowbell 1
+086	TAMBRN1		tambourine 1
+087	SHAKER1		shaker 1
+088	MUTE_CG		mute high conga
+089	SLAP_CG		slap high conga
+090	LOW_CG		open low conga
+091	SLIDE_CG	slide low conga
+092	AGOGO1		agogo 1
+093	OCT_AGG		octave agogo
+
+
+
+R8Snds2
+-------
+036	WHISTL1		whistle 1
+037	WHISTL2		whistle 2
+038	BACK_S1		back snare 1
+039	BACK_T1		back tom 1
+040	BACK_C1		back cymbal 1
+041	SPARK1		spark 1
+042	SURF		surf
+043	WHEEL1		wheel 1
+044	DBLH_K3		double head kick 3
+045	RIMSHT3		rimshot snare 3
+046	DOOM_T2		doom tom 2
+047	DOOM_T3		doom tom 3
+048	CLSD_H2		closed hihat 2
+049	CLSD_H3		closed hihat 3
+050	OPEN_H2		open hihat 2
+051	OPEN_H3		open hihat 3
+052	CRSH_C2		crash cymbal 2
+053	SPLA_C1		splash cymbal 1
+054	SPLA_C2		splash cymbal 2
+055	DRYCLAP		dry hand clap
+056	OPEN_D2		open drum 2
+057	COWBEL2		cowbell 2
+058	HIGH_CG		open high conga
+059	PLATE1		plate 1
+060	RING1		ring 1
+061	PIPE1		pipe 1
+062	WBLOCK1		woodblock 1
+063	WBLOCK2		woodblock 2
+064	THRILLR		thriller
+065	GUNSHT1		gunshot 1
+066	SHADOW		shadow
+067	808_K	
+068	808_S	
+069	808_T	
+070	808CHH	
+071	808CLAV	
+072	808CNG	
+073	808COW	
+074	808OHH	
+075	808RIDE	
+076	808SIDE	
+077	BEND_T	
+078	CTRL_K	
+079	EL_BELL	
+080	EL_CRSH	
+081	ELEC_K	
+082	ELEC_S	
+083	ELEC_T	
+084	FLANG_K	
+085	FLANG_S	
+086	HIGH_Q	
+087	RAPNOIS	
+088	RVB_S2	
+089	SLAP2	
+090	SY_BASS	
+091	WOODBOX	

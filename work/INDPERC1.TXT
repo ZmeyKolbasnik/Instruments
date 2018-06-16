@@ -1,0 +1,15 @@
+indperc1.sbk
+Original indian Tablas for AWE32.
+
+indperc1.mid
+Short MIDI-Demosequence using
+indperc1.sbk at Userbank #1.
+
+indperc1.wrk
+Same as indperc1.mid in
+Cakewalk - Format.
+
+Contact:
+Rainald Schwenke
+e-mail:  rainjieb@sp.zrz.tu-berlin.de
+

@@ -1,0 +1,47 @@
+AWE32 1.5MB GM bank - 1st release 1996/04/29
+Park Kwan-soo : Seoul, Republic of Korea
+(elegie@plaza.snu.ac.kr)
+(elegie@nocom.co.kr)
+
+* file contents
+my_15mgm.sbk : 1.5 MegaBytes GM bank file for SB AWE32
+my_15mgm.txt : This file
+
+
+* descriptions
+  This bank is an effort to make AWE sound better. I recently downloaded
+a 2MB GM bank(finegm.sbk created by Ivan Blumenschein) and enjoyed it. I
+think that the finegm.sbk is very good but that its size is too large for 
+loading user sample on my 2MB RAM. So I decided to convert the 2MB GM bank
+into 1.5MB GM bank.  
+
+  Loading this bank on AWE with 2MB ram, you can still use 507KB free and 
+I think this size is large enough for most of midi music requiring user bank. 
+
+* usage
+  There  three ways to use this bank as your main GM bank.
+  A. Windows 3.1 users
+   1.Copy the "my_15mgm.sbk" to your sfbank subdirectory(maybe c:\sb16\asfbank).
+   Edit your \WINDOWS\SBWIN.INI file.  Below the
+   [AWE32], in the line
+   user ...
+   complete it;
+         user=c:\sb16\sfbank\my_15mgm.sbk
+   Run WINDOWS. In AWE Control Panel, choose USER CUSTOM BANK.
+   All your windows applications will now use this bank as bank 0.
+   2. Just copy the my_15mgm.sbk to your sfbank directory with the name synthgm.sbk.
+   (It overwrites your old GM bank, so backup it.)
+
+  B. Windows 95 users
+   If you using Windows 95 with the latest driver of AWE32, you will have 
+  the New AWE32 Control Panel. In this case, you can load the my_15mgm.sbk as
+  General Midi bank. 
+
+* comments
+   This file is NOT tested for all the existing midi file, and I'm NOT so experienced 
+in handling the AWE's soundfont banks. So, this file may contain some problems playing 
+music. If this file sounds worse, you can replace it as your original GM bank.   
+
+- Park Kwan-soo -
+(elegie@plaza.snu.ac.kr)
+(elegie@nowcom.co.kr)

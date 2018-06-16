@@ -1,0 +1,58 @@
+ллм млл
+ плллп
+ млллм
+ллп плл bert Soundfonts & Samples
+http://members.xoom.com/X_bert/xbert.html
+
+Soundfont name..............: Xbert Drum Kit 1 v1.0a
+Created by..................: Xbert
+AWE memory required.........: 1MB+
+Soundfont type..............: Percussion 
+
+General Information/Description:
+
+Hard Beat Drum Kit/Percussion created for Dance/Electronica style music but of 
+course can used for any style.  MP3 Sample loops created using this soundfont
+can be found on the LOOPS Page of the Xbert web site.
+
+25 Samples, Mapping shown below. 
+
+Soundfont Map :
+
+Midi Note/Key         Sample Name
+   
+     27         -        Yeah
+     29         -      Scratch 2
+     30         -      Scratch 1
+     35         -     Kick Drum 2
+     36         -     Kick Drum 1
+     37         - Side Stick / Rim Shot
+     38         -     Snare Drum 1
+     39         -      Hand Clap
+     40         -     Snare Drum 2   
+     42         -     Closed Hi Hat
+     43         -        Low Tom 
+     44         -     Pedel Hi Hat
+     46         -     Open Hi Hat
+     47         -       Mid Tom
+     50         -        Hi Tom
+     52         -    Reverse Cymbal
+     53         -     Ride Cymbal
+     54         -     Tambourine
+     58         -         Dum
+     62         -    Muted Hi Conga
+     63         -    Open Hi Conga
+     64         -      Conga Lo
+     76         -       Hi Pop
+     77         -       Lo Pop
+   
+   
+Other Stuff:
+
+You are free to use or incorporate this Soundfont/Samples into music compositions for
+non-commercial & private use.  Feel to distribute, modify, improve or added to this
+Soundfont/Samples, if you do modify and redistribute this Soundfont/Samples it would 
+be nice to be credited for my work, I would also be grateful if you would e-mail a 
+copy to me so I can add it to the web site for other people to enjoy.
+
+X_bert@hotmail.com
